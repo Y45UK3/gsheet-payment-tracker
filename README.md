@@ -1,4 +1,4 @@
-# GSheet Payment Tracker
+# Google Sheet Payment Tracker
 
 ## Overview
 A Google Apps Script to monitor multiple Google Sheets for payment deadlines.  
@@ -29,3 +29,4 @@ const SHEETS_TO_MONITOR = [
     webhook: "YOUR_DISCORD_WEBHOOK_URL"
   }
 ];
+
