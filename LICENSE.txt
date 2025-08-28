@@ -1,6 +1,3 @@
-
-# **4️⃣ LICENSE**  
-
 MIT License
 
 Copyright (c) 2025 Thumula 'Y45UK3' Kulajitha
@@ -16,4 +13,3 @@ the Software, subject to the following conditions:
 4. All rights fully reserved by Thumula 'Y45UK3' Kulajitha. No part of this Software is assigned to any other entity.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
