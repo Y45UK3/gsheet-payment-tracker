@@ -1,0 +1,3 @@
+# Ignore local Google Apps Script configuration files
+.clasp.json
+node_modules/
