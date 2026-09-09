@@ -1,0 +1,1 @@
+The invoice generator uses the official ingame.global site favicon asset. Binary PNG is maintained via Git object update.
