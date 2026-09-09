@@ -1,0 +1,1 @@
+Temporary marker for favicon asset update.
